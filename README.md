@@ -1,6 +1,6 @@
 # LeetCode Weekly Contest 399.
 
-This repository contains my solutions to the problems from [Weekly Contest 399](https://leetcode.com/contest/weekly-contest-399/). Each solution is implemented in C++. Below, you will find a description with the topic of each problem..
+This repository contains my solutions to the problems from [LeetCode Weekly Contest 399](https://leetcode.com/contest/weekly-contest-399/). Each solution is implemented in C++. Below, you will find a description with the topic of each problem..
 
 ## Problem 3162. Find the Number of Good Pairs I
 
